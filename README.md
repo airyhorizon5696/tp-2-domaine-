@@ -34,8 +34,8 @@
 
 
 ### Moodboard
-- 
+- https://www.canva.com/design/DAG57_6D01g/ocjMWf1OfA8BUJ9MrtcqVQ/edit?utm_content=DAG57_6D01g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### Diagramme de flux
-- 
+- https://lucid.app/lucidchart/a5f2a8a3-6aae-4712-b6c8-86d92a2b6624/edit?viewport_loc=-942%2C-597%2C3123%2C3528%2C0_0&invitationId=inv_ca688dbb-5858-4fcb-93ae-160dbd74b686
 
